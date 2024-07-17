@@ -1,0 +1,22 @@
+/* src/components/Toolbar.css */
+.toolbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .toolbar button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    color: #fff;
+    background-color: #007bff;
+    cursor: pointer;
+  }
+  
+  .toolbar button:hover {
+    background-color: #0056b3;
+  }
+  
